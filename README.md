@@ -21,24 +21,5 @@ The dataset includes the following features:
 - `Age`: Age (years)
 - `Outcome`: Class variable (0 or 1)
 
-## Installation
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/diabetes-prediction.git
-    cd diabetes-prediction
-    ```
-
-2. Create and activate a virtual environment:
-    ```sh
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
-
-3. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-
 
     
