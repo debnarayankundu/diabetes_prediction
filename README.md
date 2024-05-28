@@ -19,7 +19,7 @@ The dataset includes the following features:
 - `BMI`: Body mass index (weight in kg/(height in m)^2)
 - `DiabetesPedigreeFunction`: Diabetes pedigree function
 - `Age`: Age (years)
-- `Outcome`: Class variable (0 or 1)
+
 
 
 ![image](https://github.com/debnarayankundu/diabetes_prediction/assets/159264658/495abc26-55e3-4f15-afe9-8ac7954bc877)
