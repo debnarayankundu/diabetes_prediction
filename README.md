@@ -22,8 +22,6 @@ The dataset includes the following features:
 - `Outcome`: Class variable (0 or 1)
 
 
-![image](https://github.com/debnarayankundu/diabetes_prediction/assets/159264658/ea99fdaf-a088-432a-92ef-f0efe79133a7)
-
-![image](https://github.com/debnarayankundu/diabetes_prediction/assets/159264658/e43d13e5-cec4-472a-9e71-1ca0706a5879)
+![image](https://github.com/debnarayankundu/diabetes_prediction/assets/159264658/495abc26-55e3-4f15-afe9-8ac7954bc877)
 
 
